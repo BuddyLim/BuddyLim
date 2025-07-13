@@ -7,10 +7,5 @@ Currently working on:
 Currently learning:
 - golang
 
-Currently reading:
-- Software Engineering at Google
-
-Finished reading: 
-- Team Geek
-- The Pragmatic Programmer
-- The Effective Engineer
+Contact:
+- buddy.tlimk@gmail.com
