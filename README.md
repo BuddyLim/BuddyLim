@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello!
 
-<!--
-**BuddyLim/BuddyLim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack developer primarily using React-TS and Python to solve problems
 
-Here are some ideas to get you started:
+Currently working on:
+- smartfi; Mobile application with agentic workflows to help me track my personal expenses, built on react native and fastapi
+- to be named; Newsletter aggregator from email and categorization, building the backend using golang
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning:
+- golang
+
+Currently reading:
+- Software Engineering at Google
+
+Finished reading: 
+- Team Geek
+- The Pragmatic Programmer
+- The Effective Engineer
