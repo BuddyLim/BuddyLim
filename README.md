@@ -1,5 +1,3 @@
-## Hello!
-
 Fullstack developer primarily using React-TS and Python to solve problems
 
 Currently working on:
