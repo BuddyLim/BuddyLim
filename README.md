@@ -9,7 +9,7 @@ Currently learning:
 
 Currently reading:
 - Software Engineering at Google
-
+- AI Engineering
 
 Contact:
 - buddy.tlimk@gmail.com
